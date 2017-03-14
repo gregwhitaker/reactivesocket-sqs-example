@@ -1,16 +1,14 @@
-reactivesocket-sqs-example
-===
-
+# reactivesocket-sqs-example
 This example shows you how to bridge [ReactiveSockets](http://reactivesocket.io/) and Amazon Web Services' [Simple Queue Service](https://aws.amazon.com/sqs/) queues.
 
-##Running the Example
+## Running the Example
 The example can be run using the following gradle command:
 
 ```
 $ ./gradlew run
 ```
 
-##License
+## License
 Copyright 2016 Greg Whitaker
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
